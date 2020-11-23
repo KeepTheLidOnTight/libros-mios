@@ -1,3 +1,3 @@
 # libros-mios
 
-deployed app:
+deployed app: https://libros-mios.herokuapp.com/
